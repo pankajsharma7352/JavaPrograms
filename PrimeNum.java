@@ -16,8 +16,8 @@ class PrimeNum
 				count++;	
 		}
 		if(count==2)
-			System.out.println("Number is Prime");
+			System.out.println("Given Number is Prime");
 		else
-			System.out.println("Number is not prime");
+			System.out.println("Given Number is not prime");
 	}
 }
